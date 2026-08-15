@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-iqoy2p.recibodeluz.top/sitemap.xml
